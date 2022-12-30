@@ -13,4 +13,4 @@ Atividade do curso de front end do site alura para praticar fundamentos já estu
 
 # Autor
 
-https://github.com/santanafx
+https://github.com/MonicaHillman
